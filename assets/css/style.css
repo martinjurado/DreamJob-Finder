@@ -1,0 +1,317 @@
+/* headers */
+.main-header {
+    
+    font-family: 'Noto Serif', serif;
+    font-size: 55px;
+    text-align: left;
+    color: white;
+    margin-bottom: 13%;
+    position: relative;
+    margin-left: 5%;
+}
+.main-headerblog {
+font-family: 'Noto Serif', serif;
+font-size: 55px;
+text-align: left;
+color: black;
+margin-bottom: 13%;
+position: relative;
+margin-left: 10%;
+}
+
+
+
+.sub-header {
+    font-family: 'Noto Serif', serif;
+    text-align: left;
+    font-size: 28px;
+    margin-left: 10%;
+    bottom: 40%;
+    position: absolute;
+}
+
+.main-header2 {
+    
+    font-family: 'Noto Serif', serif;
+    font-size: 55px;
+    text-align: left;
+    color: white;
+    margin-bottom: 20%;
+    position: relative;
+    margin-left: 20%;
+}
+
+.sub-header2 {
+    font-family: 'Noto Serif', serif;
+    text-align: left;
+    font-size: 28px;
+    margin-left: 36%;
+    bottom: 50%;
+    position: absolute;
+}
+
+.sub-header3 {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    margin-top: 3%;
+}
+.sub-header4 {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.sub-header5 {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+.sub-header6 {
+    font-family: 'Noto Serif', serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.form-row {
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+
+.icons {
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+
+.description {
+    font-family: 'Noto Serif', serif;
+    
+}
+
+.sub-description {
+    font-family: 'Noto Serif', serif;
+    
+}
+
+#job-title {
+    font-weight: bold;
+    text-align: center;
+}
+
+.sub-description2 {
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+}
+
+.nav-button {
+    margin-top:11%;
+    margin-bottom: 8%;
+    margin-right: 5px;
+}
+.page-footer{
+
+    background-color: #3E4551;
+}
+
+.foot-header {
+    color: white;
+    font-family: 'Noto Serif', serif;
+}
+
+/* News.html */
+
+.main-header-news {
+    font-family: 'Noto Serif', serif;
+    font-size: 55px;
+    color: white;
+    margin-bottom: 8%;
+    position: relative;
+    margin-left: 12%;
+}
+
+.sub-header-news {
+    font-family: 'Noto Serif', serif;
+    text-align: left;
+    font-size: 28px;
+    margin-left: 18%;
+    bottom: 20%;
+    position: absolute;
+
+}
+
+.sub-header-news3 {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 5%;
+}
+
+.news-container{ 
+    margin-right: 2%;
+}
+
+
+/* Blog HTML */
+.sub-header-blog{
+
+    font-family: 'Noto Serif', serif;
+    text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.blog-description {
+    
+    margin-left: 2%;
+
+}
+
+.blog-subheader {
+    
+    font-family: 'Noto Serif', serif;
+    color: 	#48D1CC;
+    font-size: 30px;
+    margin-left: 30%;
+}
+
+.blog-subheader2 {
+    
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+    margin-left: 21%;
+}
+
+.blog-subdescription{
+    
+    text-align: justify;
+    font-family: 'Noto Serif', serif;
+    font-size: 19px;
+    line-height: 1.6;
+}
+
+
+/* container */
+
+.content-container {
+    
+    margin-bottom: 10%;
+}
+
+.job-container {
+    height:150px;
+    overflow-y: scroll;
+}
+
+/* pics */
+.teamwork {
+
+    height: 530px;
+}
+
+.brooklyn {
+    height: 530px;
+}
+
+.logo {
+
+    height: 90px;
+    width: 460px;
+    position: absolute;
+    top: 5%;
+    margin-left: 1%;
+}
+
+.sub-logo{
+    height:60px;
+    width:170px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+
+}
+
+.subicons {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: 	#48D1CC;
+}
+
+.globe {
+    color: 	#48D1CC;
+    margin-top: 20%;
+}
+
+.nyc {
+    height: 500px;
+    width: 600px;
+}
+
+.work {
+    height: 500px;
+    width: 600px;
+}
+
+.trophy {
+    color: 	#48D1CC;
+    margin-top: 20%;
+}
+#job1 {
+    height: 500px;
+    width: 40%;
+}
+#job2 {
+    height: 500px;
+    width: 40%;
+}
+#newz {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Noto Serif', serif;
+
+}
+.newslink:link {
+    background-color: #48D1CC;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+.newslink:hover, .newslink:active {
+    background-color: navy;
+    color: white;
+}
+.newslink:visited {
+    color: white;
+}
+#job-description {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Noto Serif', serif; 
+}
+#job-description2 {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Noto Serif', serif; 
+}
+.linkbutton {
+    background-color: #48D1CC;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+.linkbutton:hover, .linkbutton:active {
+    background-color: navy;
+    color: white;
+}
+.linkbutton:visited {
+    color: white;
+}
+
