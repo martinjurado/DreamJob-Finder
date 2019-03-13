@@ -11,7 +11,7 @@
 - 3rd Party APIs (Authentic Jobs API, Github Jobs API, Twitter API, News API)
 - CSS Libraries (BootStrap, Hover.css, Animate.css, FontAwesome)
 
-## ROLE:
+## Role:
 - Handled overall theme and front-end design of the application
 - Integrated Bootstrap.css to create Carousels, Buttons, Spacings, Header and Footer
 - Used Hover.css to buttons and elements 
