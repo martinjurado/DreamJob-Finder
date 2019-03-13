@@ -6,9 +6,7 @@
 - Provides a link where you can actually apply
 - Searches a news API for the latest job related news and displays links to various articles
 
-## TECHNOLOGIES USED: 
-- CSS Libraries (BootStrap, Hover.css, Animate.css, FontAwesome)
-## TECHNOLOGIES USED: 
+## Technologies:
 - JQuery
 - 3rd Party APIs (Authentic Jobs API, Github Jobs API, Twitter API, News API)
 - CSS Libraries (BootStrap, Hover.css, Animate.css, FontAwesome)
